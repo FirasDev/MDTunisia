@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90388572767",
+    "firebase_url": "https://mdtunisia.firebaseio.com",
+    "project_id": "mdtunisia",
+    "storage_bucket": "mdtunisia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90388572767:android:e53614cc44f1502b",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90388572767-rf1fplktf8ng393it7s9un3t97umjbnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_project",
+            "certificate_hash": "87bcb380a88114ed5b3ebd3f8aa8a8199eda491f"
+          }
+        },
+        {
+          "client_id": "90388572767-nrvhdltoloi09q4l6sgjpkc9ba7jin8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA6TMqOECnwW_E2DhofCmLhkL7cuDsKkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90388572767-nrvhdltoloi09q4l6sgjpkc9ba7jin8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

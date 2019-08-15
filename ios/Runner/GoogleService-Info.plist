@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>90388572767-b62k85ujgt7ki74upnk73cmuqjv3dr78.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.90388572767-b62k85ujgt7ki74upnk73cmuqjv3dr78</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>90388572767-rf1fplktf8ng393it7s9un3t97umjbnl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApr8Oi4T6_6sE9OalIWZwNhEwki_do1j8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>90388572767</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testProject</string>
+	<key>PROJECT_ID</key>
+	<string>mdtunisia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mdtunisia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:90388572767:ios:a53b45de8d5b63c1</string>
+	<key>DATABASE_URL</key>
+	<string>https://mdtunisia.firebaseio.com</string>
+</dict>
+</plist>
